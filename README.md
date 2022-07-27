@@ -21,4 +21,12 @@ I have knowledge of software design patterns under the SOLID principles, agile m
 I'm passionate about the Back-end, devops and, data management,  dynamic programming, design thinking, user experience and artificial intelligence.
 I’m currently learning about IA Machine Learnig In Holberton School
 
-## My favorite Tech.
+
+---
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Luffy981&show_icons=true&theme=react" 
+style="max-width: 75% important!;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy981&langs_count=8&theme=react&layout=compact&exclude_repo=holbertonschool-zero_day,your_first_code">
+
+---
